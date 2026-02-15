@@ -1,0 +1,17 @@
+
+body{
+    background: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#excuse {
+  text-align: center;
+}
+
+#container {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+
+}
